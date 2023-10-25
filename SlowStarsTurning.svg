@@ -12,15 +12,15 @@
         }
         .stars-sm {
             fill: hsl(30, 30%, 50%);
-            animation: stars-sm-rotate 400s infinite linear;
+            animation: stars-sm-rotate 300s infinite linear;
         }
         .stars-md {
             fill: hsl(60, 80%, 80%);
-            animation: stars-md-rotate 350s infinite linear;
+            animation: stars-md-rotate 250s infinite linear;
         }
         .stars-lg {
             fill: hsl(60, 30%, 70%);
-            animation: stars-lg-rotate 300s infinite linear;
+            animation: stars-lg-rotate 200s infinite linear;
         }
         .flicker-circles {
             transform-origin: center center;
